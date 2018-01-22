@@ -655,7 +655,7 @@ int main(void)
 
 		printf_s("\nGold: %u\n", gold, ARRAY_SIZE);
 
-		printf_s("\Gear                     Cost\n", ARRAY_SIZE);
+		printf_s("\nGear                     Cost\n", ARRAY_SIZE);
 
 		printf_s("1. Backpack (empty)        2 gp\n", ARRAY_SIZE);
 		printf_s("2. Crowbar                 2 gp\n", ARRAY_SIZE);
